@@ -1,0 +1,17 @@
+﻿{
+  OrderId: {Scrubbed},
+  CustomerName: Test Customer,
+  CustomerEmail: test@example.com,
+  Items: [
+    {
+      ProductId: Guid_1,
+      ProductName: TestProduct,
+      UnitPrice: 50.0,
+      Quantity: 5,
+      LineTotal: 250.0
+    }
+  ],
+  Subtotal: 250.0,
+  Total: 250.0,
+  CreatedAt: {Scrubbed}
+}
